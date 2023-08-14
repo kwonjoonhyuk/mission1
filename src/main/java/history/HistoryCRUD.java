@@ -1,6 +1,6 @@
 package history;
 
-import wifi.GetDistanceDto;
+
 
 import java.sql.Connection;
 import java.sql.DriverManager;
